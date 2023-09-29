@@ -123,3 +123,7 @@ venv.bak/
 .mypy_cache/
 .dmypy.json
 dmypy.json
+Aula02/cancelamentos_sample.csv
+Aula02/cancelamentos.csv
+Aula02/gabarito.ipynb
+Aula02/inicial.ipynb
